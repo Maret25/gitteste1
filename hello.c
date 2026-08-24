@@ -1,6 +1,10 @@
  #include<stdio.h>
   
   int main(){
-    printf("Hello World!");
+    
+    int resposta = soma(4,5);
+    printf("a soma é %d",resposta);
     return 0;
+    
   }
+  
